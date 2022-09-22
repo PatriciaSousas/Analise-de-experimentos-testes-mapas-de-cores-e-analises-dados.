@@ -1,0 +1,1 @@
+# Analise-de-experimentos-testes-mapas-de-cores-e-analises-dados.
